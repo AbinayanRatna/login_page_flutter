@@ -1,8 +1,8 @@
 Screenshots:
 <p>
-<img src="ScreenShots/sample_1.jpg" style="width: 300px"/>
-<img src="ScreenShots/sample_2.jpg" style="width: 300px"/>
-<img src="ScreenShots/sample_3.jpg" style="width: 300px"/>
+<img src="ScreenShots/sample_1.jpg" style="width: 200px"/>
+<img src="ScreenShots/sample_2.jpg" style="width: 200px"/>
+<img src="ScreenShots/sample_3.jpg" style="width: 200px"/>
 </p>
 ## Author
 
