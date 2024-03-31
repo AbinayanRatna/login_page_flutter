@@ -1,16 +1,17 @@
-# login_ui_test
+Screenshots:
 
-A new Flutter project.
+<img src="ScreenShots/sample_1.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_2.jpg" style="width: 400px"/>
+<img src="ScreenShots/sample_3.jpg" style="width: 400px"/>
 
-## Getting Started
+## Author
 
-This project is a starting point for a Flutter application.
+👤 **Abinayan Ratnasingam**
 
-A few resources to get you started if this is your first Flutter project:
+- Github: https://github.com/AbinayanRatna
+- LinkedIn: https://www.linkedin.com/in/abinayan-ratnasingam-5092b3214/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Show your support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Give a ⭐️ if this project helped you!
+
